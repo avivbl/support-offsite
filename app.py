@@ -6,7 +6,7 @@ from scripts.rainbow import rainbow
 import blinkt
 
 def lights():
-    effect = ranibow
+    effect = rainbow
     effect()
 
 if __name__ == '__main__':
